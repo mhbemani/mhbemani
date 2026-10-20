@@ -20,4 +20,4 @@ C, C++, Java, Python, C#, TypeScript, x86 assembly (NASM), LLVM IR, Unity, Remot
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohamad-hosein-bemani/). Open to internship and junior roles (Tehran, on-site, hybrid or remote).
+[Portfolio](https://mhbemani.github.io) · [CV (PDF)](https://mhbemani.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/mohamad-hosein-bemani/). Open to internship and junior roles (Tehran, on-site, hybrid or remote).
